@@ -1,0 +1,5 @@
+streamlit
+numpy
+sfepy
+pyvista
+easygui
