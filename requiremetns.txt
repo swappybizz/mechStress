@@ -1,6 +1,6 @@
 streamlit
 numpy
 easygui
-matplotlib
 solidspy
 openai
+matplotlib
