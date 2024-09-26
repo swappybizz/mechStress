@@ -1,7 +1,6 @@
 streamlit
 numpy
-sfepy
-pyvista
 easygui
 matplotlib
 solidspy
+openai
